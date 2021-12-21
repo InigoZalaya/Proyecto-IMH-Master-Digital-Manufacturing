@@ -1,1 +1,1 @@
-# Proyecto-IMH-Máster-Digital-Manufacturing
+# Proyecto IMH Máster Digital Manufacturing
