@@ -7,4 +7,4 @@ Proyecto realizado por Iñigo Zalaya para la asignatura Soluciones Integrales de
 
 En este proyecto se ha realizado una propuesta de mejora de un problema de empresa según los conceptos I4.0, donde se han efectuado diferentes trabajos como:
 * Estudio previo de Inteligencia Artificial → Diseño código para el Mantenimiento predictivo de motores de seguidores solares.
-* Desarrollo de un Dashboard para la monitorización de datos en tiempo real y creación de una página web.
+* Desarrollo de un [Dashboard](https://demo.thingsboard.io/dashboard/4e2be200-592a-11ec-8f43-1d800e6c37b6?publicId=e7504c00-5a9c-11ec-928c-d16ac1689d62) para la monitorización de datos en tiempo real y creación de una página [web](https://zalayainigo.github.io/).
