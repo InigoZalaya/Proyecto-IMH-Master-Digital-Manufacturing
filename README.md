@@ -2,7 +2,6 @@
 ## Descripción del Proyecto
 
 Proyecto realizado por Iñigo Zalaya para la asignatura Soluciones Integrales de Ingeniería, en el Master Digital Manufacturing de IMH.
-Machine learning
 
 ## Objetivos y contextualización del proyecto
 
